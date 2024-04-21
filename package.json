@@ -1,0 +1,24 @@
+{
+  "name": "jw330434-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jw330434/names.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"jw330434": "^1.0.0",
+  	"dg289180": "^1.0.0",
+	"dg289180-one": "^1.0.0",
+  	"kbiopaa": "^1.0.0",
+	"kbiopaa-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
